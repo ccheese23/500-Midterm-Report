@@ -1,6 +1,6 @@
 # 500-Midterm-Report
 
-## Medical Imaging & Computer Vision
+## Medical Imaging & Computer Vision - Group 4
 
 ### Dataset
 
