@@ -1,0 +1,4 @@
+Partition,Expected,Baseline,Classical ML,CNN,Transfer learning
+Training,4682,4682,4682,4682,4682
+Validation,524,524,524,524,524
+Testing,624,624,624,624,624

@@ -1,0 +1,4 @@
+Partition,Normal,Pneumonia,Total,Normal (%),Pneumonia (%)
+Training,1214,3494,4708,25.79,74.21
+Validation,135,389,524,25.76,74.24
+Testing,234,390,624,37.5,62.5
