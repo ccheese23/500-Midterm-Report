@@ -1,0 +1,8 @@
+{
+    "python_version": "3.13.18",
+    "pytorch_version": "2.14.1+cpu",
+    "cuda_available": false,
+    "preprocessing_device": "CPU",
+    "recommended_deep_learning_device": "GPU",
+    "note": "The recorded dependencies describe the preprocessing environment. GPU-compatible PyTorch and Torchvision versions should be used for deep learning training."
+}
