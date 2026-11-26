@@ -1,0 +1,11 @@
+{
+    "random_seeds": [
+        42,
+        123,
+        2026
+    ],
+    "default_seed": 42,
+    "batch_size": 32,
+    "cudnn_deterministic": true,
+    "cudnn_benchmark": false
+}
